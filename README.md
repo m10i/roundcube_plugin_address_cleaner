@@ -4,7 +4,7 @@ This plugin automatically cleans up the part of display name and comment in dist
 
 ## Requirements
 
-Roundcube >= 0.9.0
+Roundcube >= 1.3.0
 
 ## Installation
 
